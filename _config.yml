@@ -68,5 +68,6 @@ theme: hexo-theme-next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  #type: github
+  type: git
   repo: git@github.com:minasan/minasan.github.io.git
