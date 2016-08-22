@@ -70,4 +70,5 @@ theme: hexo-theme-next
 deploy:
   #type: github
   type: git
-  repo: git@github.com:minasan/minasan.github.io.git
+  repo: https://minasan@github.com/minasan/minasan.github.io.git
+  branch: gh-pages
